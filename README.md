@@ -1,32 +1,11 @@
 
-# 📝 MiniContent
+# 📝 Spheron Telegram Mini App
 
-MiniContent - a mini-app for Telegram, enabling community leaders to create exclusive articles for their audience with Telegram Premium subscriptions.
-
-## 🎥 Demo
-
-
-🤖 [Telegram Mini-app](https://t.me/MiniContentBot)
-
-📢 [Telegram Channel with articles examples](https://t.me/MiniContent_Demo)
+Interface for various TG Deployment bots for different nodes
 
 ## ✨ Features
 
-MiniContent has tools to help you share and manage your articles on Telegram:
 
-- 📝 **Write for Everyone**: Make articles for both free and Premium Telegram users.
-
-- 🎨 **Rich Formatting**: Use easy tools to make your articles look nice.
-
-- 🔗 **Instant Links**: Add links in your articles that open instantly in Telegram.
-
-- 📊 **See Views**: Check how many people read each article.
-
-## 🚀 Usability
-With MiniContent, you can make special articles just for people who pay for a Premium subscription on Telegram. What This Means:
-
-- More Boosts: Premium subscribers will want to read what you make and give more boots to your channel.
-- Support Telegram: When you offer special articles, more people might want to get a Premium subscription.
 
 ## Table of Contents
 
